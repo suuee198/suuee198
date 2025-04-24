@@ -1,4 +1,4 @@
-# Hi, I'm Suad 👋
+# Hi👋
 
 Welcome to my GitHub profile! I’m a cybersecurity enthusiast. I’m passionate about **network security**, **incident response**, **digital forensics**, and **security automation**. My focus is on enhancing my blue team skills and learning advanced techniques for incident detection and response.
 
